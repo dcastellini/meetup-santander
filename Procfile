@@ -1,0 +1,1 @@
+web: java -jar build/libs/platzi-market-1.1.jar
