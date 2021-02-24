@@ -1,13 +1,3 @@
---date: "2020-12-31T13:40:00"
-
- create database meetup
-    with 
-    owner = postgres
-    encoding = 'utf8'
-    lc_collate = 'spanish_argentina.1252'
-    lc_ctype = 'spanish_argentina.1252'
-    tablespace = pg_default
-    connection limit = -1; 
 
 -- -----------------------------------------------------
 -- table "privilegios"

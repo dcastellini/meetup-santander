@@ -1,1 +1,1 @@
-web: java -jar build/libs/platzi-market-1.1.jar
+web: java -jar build/libs/meetup-1.0.jar
