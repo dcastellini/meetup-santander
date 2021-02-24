@@ -1,1 +1,1 @@
-web: java -jar build/libs/meetup-1.0.jar
+web: java -jar build/libs/meetup-1.1.jar
